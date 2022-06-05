@@ -182,7 +182,7 @@ h3 {
   gap: 2%;
 }
 
-h4 {
+.super-content-grid h3 {
   font-size: 1.3rem;
   color: var(--dark-grayish-blue);
   font-weight: 600;
@@ -423,7 +423,7 @@ span:active {
     margin-top: 12%;
   }
 
-  h4 {
+  .super-content-grid h3 {
     font-size: 1.2rem;
     margin-top: 8%;
   }
